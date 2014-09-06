@@ -1,8 +1,10 @@
 # Simple Personal Page
 
-Simple and clean about page for personal websites.
+Simple and clean about page template for personal websites.
 
 Demo: [http://peterm.am](http://peterm.am).
+
+![Example](http://www.renatopeterman.com.br/images/github//simple-personal-page.jpg "Example")
 
 ### Other examples
 
