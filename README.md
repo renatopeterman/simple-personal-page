@@ -2,14 +2,13 @@
 
 Simple and clean about page template for personal websites.
 
-Demo: [http://peterm.am](http://peterm.am).
+Demo: [http://peterm.am](http://renatopeterman.com.br).
 
 ![Example](http://www.renatopeterman.com.br/images/github//simple-personal-page.jpg "Example")
 
 ### Other examples
 
-* [Vander Alvas](http://www.vanderalvas.com.br)
-* [Arcostasi](http://www.arcostasi.com)
+* [Fabiano Stocco](https://fstocco.com.br)
 
 ### Tools
 
